@@ -29,8 +29,6 @@ flutter:
       android:
         package: com.example.r_upgrade
         pluginClass: RUpgradePlugin
-      ios:
-        pluginClass: RUpgradePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
